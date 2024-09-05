@@ -4,3 +4,5 @@ This repo serves as the base for my Flipper Zero/Bad USB based project. I worked
 
 Currently, the STL files for the power bank and laptop charger prototypes will be uploaded, as well as images of said prototypes. Any further Updates in terms of designs will be uploaded here. \
 This repository also contains a collection of scripts I have written to serve as a supplement for the case, if you choose to print it. 
+
+As always, this is simply a proof of concept. PLease use the scripts and badusb scripts responsibly, and only on systems you have permission to test on. 
