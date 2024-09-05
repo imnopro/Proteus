@@ -1,5 +1,18 @@
 # Proteus
 
+
+```
+                _                 
+                | |                
+ _ __  _ __ ___ | |_ ___ _   _ ___ 
+| '_ \| '__/ _ \| __/ _ \ | | / __|
+| |_) | | | (_) | ||  __/ |_| \__ \
+| .__/|_|  \___/ \__\___|\__,_|___/
+| |                                
+|_| 
+
+```
+
 ![Proteus ASCII](logo.png)
 
 This repo serves as the base for my Flipper Zero/Bad USB based project. I worked with my team to design a 3D-printed case for my Flipper, to make it look like a standard laptop charger. With the use of these scripts and some modifications, we have designed a "bad charger".
