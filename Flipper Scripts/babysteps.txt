@@ -7,6 +7,7 @@ GUI r
 DELAY 500
 STRING cmd
 ENTER
-DELAY 500
+DELAY 2000
 STRING start chrome https://youtu.be/TXV2isj9mu0?si=IRTqMcpJYhJkhKDW
 ENTER
+EXIT
