@@ -1,6 +1,6 @@
 # Proteus
 
-![Proteus ASCII](https://example.com/path/to/logo.png "Charger Optimizer Logo")
+![Proteus ASCII](logo.png)
 
 This repo serves as the base for my Flipper Zero/Bad USB based project. I worked with my team to design a 3D-printed case for my Flipper, to make it look like a standard laptop charger. With the use of these scripts and some modifications, we have designed a "bad charger".
 
