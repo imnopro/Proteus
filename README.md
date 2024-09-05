@@ -1,10 +1,10 @@
-   _____________ _____ _____ _____ _   _ _______   
-  / / ___ \ ___ \  _  |_   _|  ___| | | /  ___\ \  
- | || |_/ / |_/ / | | | | | | |__ | | | \ `--. | | 
-/ / |  __/|    /| | | | | | |  __|| | | |`--. \ \ \
-\ \ | |   | |\ \\ \_/ / | | | |___| |_| /\__/ / / /
- | |\_|   \_| \_|\___/  \_/ \____/ \___/\____/ | | 
-  \_\                                         /_/  
+ ```  _____________ _____ _____ _____ _   _ _______   ```
+```  / / ___ \ ___ \  _  |_   _|  ___| | | /  ___\ \  ```
+``` | || |_/ / |_/ / | | | | | | |__ | | | \ `--. | | ```
+```/ / |  __/|    /| | | | | | |  __|| | | |`--. \ \ \```
+```\ \ | |   | |\ \\ \_/ / | | | |___| |_| /\__/ / / /```
+ ```| |\_|   \_| \_|\___/  \_/ \____/ \___/\____/ | |``` 
+  ```\_\                                         /_/```  
                                                    
 
 This repo serves as the base for my Flipper Zero/Bad USB based project. I worked with my team to design a 3D-printed case for my Flipper, to make it look like a standard laptop charger. With the use of these scripts and some modifications, we have designed a "bad charger".
